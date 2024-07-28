@@ -18,7 +18,8 @@ developers-front-app
 - API
   - [API](https://github.com/Bruno0751/my-api-mongo)
 
+### como executar
+    Após todas as dependências baixadas criar a base de dados "test"
+    
 ### Iniciar Projeto
  - start index
-
- ![Alt text](assets/img.PNG)
