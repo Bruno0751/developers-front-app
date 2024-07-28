@@ -1,0 +1,81 @@
+body {
+    background-color: #b5b5b5;
+    width: 100%;
+    margin: 0;
+}
+header, footer {
+    padding: 12px;
+    width: 100%;   
+}
+header {
+    background-color: rgb(201, 201, 201);
+}
+h1 {
+    display: contents;
+}
+section {
+    width: 80%;
+    border: solid #000000 1px;
+    margin: 0 auto;
+    padding: 24px 0;
+    margin-top: 133px;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+li {
+    display: inline;
+}
+a {
+    text-decoration: none;
+}
+.a-menu:hover {
+    color: red;
+}
+.a-menu {
+    font-size: 6.1vh;
+    font-style: italic;
+    margin: 0 13.5px;
+}
+.a-menu:visited {
+    color: rgb(0, 143, 0);
+}
+form {
+    text-align: center;
+}
+label {
+    font-size: 5vh;
+}
+.int-entrada {
+    border-radius: 5px;
+    height: 24px;
+    width: 70%;
+    text-align: center;
+}
+.dv-input {
+    margin: 0 0 11px 0;
+}
+.tabela {
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    border-collapse: collapse;
+}
+table {
+    margin: 0 auto;
+    width: 80%;
+}
+td {
+    text-align: center;
+}
+footer{
+    background-color: #000000;
+    bottom: 0;
+    position: fixed;
+}
+address {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
